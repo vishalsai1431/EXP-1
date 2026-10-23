@@ -8,7 +8,9 @@ APPARATUS REQUIRED:
 S.No.	Components	Range	Quantity
 1	Resistor	1kΩ	3
 2	Voltmeter (DC)	0-30V	3
-3	Ammeter (DC)	(0-200)mA	3
+3	Ammeter (DC)	(0-200)mA	3<img width="1200" height="377" alt="beee exp1" src="https://github.com/user-attachments/assets/c7986171-f65a-445f-8b7f-d5bfa4c57b5c" />
+<img width="1200" height="377" alt="beee exp1" src="https://github.com/user-attachments/assets/95ad78ca-52f7-403d-93ad-3c2071fcd157" />
+
 4	Bread Board		1
 5	Regulated Power Supply	(0-30)V	1
 6	Connecting wires		As required
@@ -55,8 +57,11 @@ b.  KCL:<img width="1916" height="1017" alt="eee experiment 2" src="https://gith
 
 Calculation:
 
-a.   KVL:
- 
+a.   KVL:<img width="1200" height="1600" alt="beee exp 1(2,1)" src="https://github.com/user-attachments/assets/3de1678c-1231-479e-87d1-c4fee746a567" />
+
+
+<img width="1200" height="377" alt="beee exp1" src="https://github.com/user-attachments/assets/57fa3a85-7cd5-47fc-8d01-8efe1284b49a" />
+
 
 
 b.  KCL:
