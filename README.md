@@ -57,14 +57,14 @@ b.  KCL:<img width="1916" height="1017" alt="eee experiment 2" src="https://gith
 
 Calculation:
 
-a.   KVL:<img width="1200" height="1600" alt="beee exp 1(2,1)" src="https://github.com/user-attachments/assets/3de1678c-1231-479e-87d1-c4fee746a567" />
-
+a.   
 
 <img width="1200" height="377" alt="beee exp1" src="https://github.com/user-attachments/assets/57fa3a85-7cd5-47fc-8d01-8efe1284b49a" />
 
 
 
-b.  KCL:
+b.  KCL:<img width="1200" height="1600" alt="beee exp 1(2,1)" src="https://github.com/user-attachments/assets/731631cf-7360-430b-ae21-c2a5d546248e" />
+
 
 
 
@@ -72,10 +72,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ <img width="882" height="444" alt="beee exp 1 (2)" src="https://github.com/user-attachments/assets/60132fce-8430-4665-a682-528e6d5d9127" />
 
 
-b.  KCL:
+
+b.  KCL:<img width="1200" height="494" alt="beee exp 1 (2,2)" src="https://github.com/user-attachments/assets/694bc784-e7f0-406b-945e-1d893d7c7363" />
+
 
 
 
